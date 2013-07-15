@@ -1,0 +1,66 @@
+PROTOCOL PREAMBLE:
+Version: 2.1
+
+VIDEOHUB DEVICE:
+Device present: true
+Model name: Blackmagic Smart Videohub
+Video inputs: 16
+Video processing units: 0
+Video outputs: 16
+Video monitoring outputs: 0
+Serial ports: 0
+
+INPUT LABELS:
+0 In1
+1 In2
+2 In3
+3 In4
+4 In5
+5 In6
+6 In7
+7 In8
+8 In9
+9 In10
+10 In11
+11 In12
+12 In13
+13 In14
+14 In15
+15 In16
+
+OUTPUT LABELS:
+0 Out1
+1 Out2
+2 Out3
+3 Out4
+4 Out5
+5 Out6
+6 Out7
+7 Out8
+8 Out9
+9 Out10
+10 Out11
+11 Out12
+12 Out13
+13 Out14
+14 Out15
+15 Out16
+
+VIDEO OUTPUT ROUTING:
+0 0
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+10 10
+11 11
+12 12
+13 13
+14 14
+15 15
+
