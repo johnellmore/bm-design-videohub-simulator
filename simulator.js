@@ -1,10 +1,5 @@
-
-
 // TODOS
 // build locking support for multiple IPs
-
-
-
 
 // includes
 var videohub = require('./lib/videohub.js');
@@ -142,4 +137,4 @@ var Simulator = (function (type) {
 })(simType);
 
 var server = net.createServer(Simulator.handleConnection);
-server.listen(9990, '127.0.0.1');
+server.listen(9990);
